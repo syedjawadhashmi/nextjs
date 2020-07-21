@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb+srv://asd:asd@cluster0.dra9i.mongodb.net/test?retryWrites=true&w=majority",
+    "secret": "SeCrEtKeYfOrHaShInG",
+    "emailFrom": "nextjs.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "rubie.bauch18@ethereal.email",
+            "pass": "NePUaBbyGFXjqDMnzS"
+        }
+    }
+}
